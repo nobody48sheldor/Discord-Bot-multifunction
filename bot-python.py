@@ -1,6 +1,7 @@
 import discord
 import os
 from sys import platform
+import js2py as jp
 
 client = discord.Client()
 
